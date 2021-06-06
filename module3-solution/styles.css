@@ -1,0 +1,41 @@
+#body{
+	background-color: lightgray;
+}
+#paragraph1, #paragraph2, #paragraph3{
+	background-color: black;
+	padding: 5px;
+	border: 1px solid black;
+}
+#paragraph1{
+	color: red;
+}
+#paragraph2{
+	color: darkorange;
+}
+#paragraph3{
+	color: green;
+}
+#paragraph3:hover, #paragraph2:hover, #paragraph1:hover{
+	box-shadow: 0 5px 15px 5px gray;
+}
+nav{
+	color: gray;
+}
+ul{
+	border: 1px solid gray;
+	padding: 10px;
+	margin-top: 25px;
+}
+
+.container{
+	margin-top: 15px;
+}
+
+#collapsablenav a{
+	text-decoration: none;
+}
+h4{
+	color: white;
+}
+
+
